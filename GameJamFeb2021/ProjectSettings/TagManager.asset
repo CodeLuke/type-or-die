@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - NPC
+  - Bullet
+  - BulletDestroyer
+  - GameManager
+  - EnemyDeathAudioSource
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Obstacle
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 1681580111
+    locked: 0
+  - name: Player
+    uniqueID: 3445869929
+    locked: 0
+  - name: Atmosphere
+    uniqueID: 1276510303
+    locked: 0
+  - name: Weather
+    uniqueID: 390676487
+    locked: 0
+  - name: UI
+    uniqueID: 235679555
+    locked: 0
